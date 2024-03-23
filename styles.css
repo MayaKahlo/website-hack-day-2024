@@ -1,7 +1,18 @@
 h1 {
-    color:blue;
+    color: #ed583f;
+    text-align: center;
+    font-family: Arial;
+    font-size: xxx-large;
 }
 
 p {
-    color:blueviolet;
+    color: #ed583f;
+    text-align: center;
+}
+body {
+    background-color: #f3e7d8;
+}
+.content {
+    display: flex;
+    margin: 2px;
 }
